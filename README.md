@@ -1,5 +1,7 @@
 # SEARCHING ALGORITHMS
 
+Description: To demonstrate multiple search algorithms using external files and comparing speeds.
+
 Technology: C# .NET Console Application 
 
 Source Control: https://github.com/Ashley-Gibson/Searching-Algorithms
